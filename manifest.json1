@@ -1,0 +1,26 @@
+
+   
+ {
+  "short_name": "mundo de catalogos",
+  "name": "mdc",
+  "icons": [
+  {
+      "src": "https://i.ibb.co/f9BMnwQ/photostudio-1684649825430.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+	 {
+      "src": "https://i.ibb.co/bWGp6R3/photostudio-1684649928116.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#a1d9fc",
+  "theme_color": "#a1d9fc"
+}
+   
+      
+      
